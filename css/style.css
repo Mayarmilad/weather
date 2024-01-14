@@ -1,0 +1,46 @@
+*{
+    a{
+        text-decoration: none;
+    }
+}
+
+.back-ground{
+    background-image: url(../79JpIkbEsTTB3.jpg!w700wp);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.social-icon ul li a i{
+    width: 40px;
+    padding-block: 30px;
+
+}
+
+.weather-table{
+    background-color: #FFE7C1;
+    padding: 20px;
+    border-radius: 20px;
+}
+.day .head{
+    padding-bottom: 20px;
+    text-align: center;
+    color: #33186B;
+    font-family: 'Pacifico', cursive;
+}
+.weather .location p{
+    color: #7360DF;
+    font-size: 32px;
+    font-family: 'Pacifico', cursive;
+}
+.weather .status{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    
+}
+.weather-table .time{
+    font-size: 24px;
+    color: #33186B;
+}
+.back-color .copyright{
+    font-size: 18px;
+}
